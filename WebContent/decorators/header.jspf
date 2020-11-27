@@ -1,0 +1,32 @@
+<table border="0" cellspacing="0" cellpadding=0 width="100%" >
+  <tr>
+    <td align="center" width="160">
+      <img src="<%=request.getContextPath()%>/img/logo.png"
+         height="54" width="158">
+    </td>
+
+    <td width="15"></td>
+
+    <td align="center" valign="middle" width="625" height="40">
+      <h1 class="title">Margie</h1>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"></td>
+    <td align="center" class="toolbar">
+      <a href="principal.html">Principal</a>
+      | <a HREF="mision.html">Misión</a>
+      | <a HREF="vision.html">Visión</a>
+      | <a HREF="contacto.html">Contactanos</a>
+    </td>
+  </tr>
+
+  <tr>
+      <td colspan="2"></td>
+      <td align="center" valign="middle" width="625" height="10"><img
+        src="<%=request.getContextPath()%>/img/bar.png"
+        height="5" width="625"></td>
+  </tr>
+
+</table>

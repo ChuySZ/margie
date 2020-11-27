@@ -1,0 +1,25 @@
+<table border="0" width="100%">
+  <tr>
+    <td rowspan="3" width="175" height="21"></td>
+
+    <td align="center" width="625" height="5"><img
+        src="<%=request.getContextPath()%>/img/bar.png"
+        height="5" width="625"></td>
+  </tr>
+
+  <tr>
+    <td align="center" class="toolbar">
+      <a href="principal.html">Principal</a>
+      | <a HREF="mision.html">Misión</a>
+      | <a HREF="vision.html">Visión</a>
+      | <a HREF="contacto.html">Contactanos</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td class="legal">
+      <br>Copyright (c) HPL 2017
+      <br>Derechos Reservados
+    </td>
+  </tr>
+</table>
